@@ -1,4 +1,4 @@
-"# Ionic Capacitor Vue" 
+"# Ionic-Capacitor-Vue" 
 
 Fast Food Ordering Application Installation Process
 We will be needing:
